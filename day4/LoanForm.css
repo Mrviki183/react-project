@@ -1,0 +1,44 @@
+.agriculture-loan-form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .agriculture-loan-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .agriculture-loan-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .agriculture-loan-form label {
+    margin-bottom: 10px;
+  }
+  
+  .agriculture-loan-form input[type="text"],
+  .agriculture-loan-form input[type="email"] {
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .agriculture-loan-form button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .agriculture-loan-form button:hover {
+    background-color: #0056b3;
+  }
+  

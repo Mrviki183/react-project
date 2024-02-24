@@ -1,0 +1,40 @@
+.contact-us {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .contact-us h2 {
+    margin-bottom: 20px;
+  }
+  
+  .basic-details {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .basic-details p {
+    margin: 5px 0;
+  }
+  
+  .social-media ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .social-media li {
+    margin-bottom: 10px;
+  }
+  
+  .social-media a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .social-media a:hover {
+    text-decoration: underline;
+  }
+  

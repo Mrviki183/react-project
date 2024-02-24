@@ -1,0 +1,53 @@
+/* Style for the container */
+.eligibility-container {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Style for headings */
+  .eligibility-container h2 {
+    color: #333;
+    font-size: 24px;
+  }
+  
+  /* Style for paragraphs */
+  .eligibility-container p {
+    color: #555;
+    line-height: 1.6;
+  }
+  
+  /* Style for ordered list */
+  .eligibility-container ol {
+    margin-top: 10px;
+    padding-left: 20px;
+  }
+  
+  /* Style for unordered list */
+  .eligibility-container ul {
+    margin-top: 10px;
+    padding-left: 20px;
+  }
+  
+  /* Style for list items */
+  .eligibility-container li {
+    color: #555;
+  }
+  
+  /* Style for bullet points */
+  .eligibility-container li:before {
+    content: '•'; /* Bullet point */
+    margin-right: 5px;
+  }
+  
+  /* Style for links */
+  .eligibility-container a {
+    text-decoration: none;
+    color: #007bff; /* Link color */
+  }
+  
+  .eligibility-container a:hover {
+    text-decoration: underline;
+  }
+  

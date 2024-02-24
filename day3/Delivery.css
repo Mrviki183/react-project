@@ -1,0 +1,22 @@
+.delivery-channels {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .delivery-channels h2 {
+    color: #333;
+  }
+  
+  .delivery-channels ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .delivery-channels li {
+    margin-bottom: 5px;
+  }
+  
+  .delivery-channels p {
+    margin-bottom: 15px;
+  }
+  

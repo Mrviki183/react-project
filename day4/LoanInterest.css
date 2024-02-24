@@ -1,0 +1,35 @@
+.agriculture-loan-interest {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .agriculture-loan-interest h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .agriculture-loan-interest table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .agriculture-loan-interest th, .agriculture-loan-interest td {
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+  
+  .agriculture-loan-interest th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .agriculture-loan-interest td {
+    text-align: left;
+  }
+  
+  .agriculture-loan-interest tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  

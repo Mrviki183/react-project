@@ -1,0 +1,25 @@
+.loanquantum {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .loanquantum h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .loanquantum ol {
+    list-style-type: decimal;
+  }
+  
+  .loanquantum ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .loanquantum li {
+    margin-bottom: 10px;
+  }
+  
